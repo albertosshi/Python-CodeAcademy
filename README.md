@@ -1,2 +1,2 @@
-# Python-CodeAcadademy
+# Python-CodeAcademy
 My Python scripts 
